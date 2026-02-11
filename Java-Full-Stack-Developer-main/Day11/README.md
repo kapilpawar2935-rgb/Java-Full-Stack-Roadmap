@@ -1,7 +1,10 @@
 
 #Topics Covered
+
 Pattern Programs
+
 #Programs
+
 Pattern1.java 
 
 Pattern2.java
